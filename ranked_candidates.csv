@@ -1,0 +1,101 @@
+Candidate_ID,Full_Name,Semantic_Score,Experience_Score,LLM_Fit_Analysis,Final_Rank
+CAND_0018499,Aarav Trivedi,66.25,100.00,"Senior Machine Learning Engineer with 7.2 yrs; AI/backend match 100/100 via RAG, Embeddings, Recommendation Systems, Pinecone, Weaviate; behavior 100, tenure 100.",1
+CAND_0046525,Tanvi Mukherjee,66.16,100.00,"Senior Machine Learning Engineer with 6.1 yrs; AI/backend match 100/100 via LLMs, pgvector, LangChain, Machine Learning, LlamaIndex; behavior 100, tenure 100.",2
+CAND_0042029,Dhruv Joshi,65.83,100.00,"Senior Data Scientist with 6.5 yrs; AI/backend match 100/100 via RAG, Embeddings, Weaviate; behavior 100, tenure 100.",3
+CAND_0092278,Ananya Arora,65.49,100.00,"Senior NLP Engineer with 6.8 yrs; AI/backend match 100/100 via LLMs, pgvector, Machine Learning, Milvus; behavior 100, tenure 100.",4
+CAND_0005260,Mira Ghosh,65.27,100.00,"Senior NLP Engineer with 5.2 yrs; AI/backend match 100/100 via Python, RAG, Embeddings, pgvector, MLOps; behavior 100, tenure 100.",5
+CAND_0006418,Rahul Mukherjee,64.52,100.00,"Machine Learning Engineer with 5.7 yrs; AI/backend match 100/100 via Embeddings, Weaviate, Kubernetes; behavior 100, tenure 100.",6
+CAND_0011432,Deepak Trivedi,64.33,100.00,"Senior Data Scientist with 7.6 yrs; AI/backend match 100/100 via pgvector, MLOps, Machine Learning, LlamaIndex, BentoML; behavior 100, tenure 100.",7
+CAND_0066999,Riya Dalal,64.19,100.00,"Recommendation Systems Engineer with 5.9 yrs; AI/backend match 100/100 via LLMs, Embeddings, Pinecone, Machine Learning; behavior 100, tenure 100.",8
+CAND_0094759,Aditya Pillai,64.07,100.00,"Lead AI Engineer with 8.6 yrs; AI/backend match 100/100 via Fine-tuning LLMs, MLOps, Weaviate; behavior 100, tenure 100.",9
+CAND_0081846,Arjun Khanna,67.06,100.00,"Lead AI Engineer with 6.7 yrs; AI/backend match 100/100 via Python, Embeddings, pgvector, Recommendation Systems, LlamaIndex; behavior 100, tenure 100.",10
+CAND_0045250,Priya Pandey,64.04,100.00,"Applied ML Engineer with 6.6 yrs; AI/backend match 100/100 via LLMs, Embeddings, Milvus, LangChain; behavior 100, tenure 100.",11
+CAND_0053605,Myra Mishra,63.49,100.00,"Senior Software Engineer (ML) with 6.9 yrs; AI/backend match 100/100 via RAG, pgvector, LangChain, BentoML, GCP; behavior 100, tenure 100.",12
+CAND_0052328,Vikram Banerjee,63.38,100.00,"Recommendation Systems Engineer with 6.5 yrs; AI/backend match 100/100 via Python, Recommendation Systems, Fine-tuning LLMs; behavior 100, tenure 100.",13
+CAND_0090584,Amit Goyal,63.57,100.00,"ML Engineer with 5.1 yrs; AI/backend match 100/100 via Embeddings, RAG, Fine-tuning LLMs, Kafka, AWS; behavior 100, tenure 100.",14
+CAND_0020877,Anil Rao,64.12,100.00,"Applied ML Engineer with 5.1 yrs; AI/backend match 99/100 via LlamaIndex, Weaviate, Milvus; behavior 100, tenure 100.",15
+CAND_0061265,Tanya Chopra,63.08,100.00,"Recommendation Systems Engineer with 6.6 yrs; AI/backend match 100/100 via Embeddings, LangChain, Milvus, Django; behavior 100, tenure 100.",16
+CAND_0083879,Mira Reddy,62.96,100.00,"Machine Learning Engineer with 7.1 yrs; AI/backend match 100/100 via Fine-tuning LLMs, MLOps, Milvus, Machine Learning; behavior 100, tenure 100.",17
+CAND_0091909,Pooja Tiwari,62.94,100.00,"Machine Learning Engineer with 6.9 yrs; AI/backend match 100/100 via LLMs, Pinecone, LangChain, BentoML; behavior 100, tenure 100.",18
+CAND_0047907,Siya Mehta,62.85,100.00,"AI Research Engineer with 6.6 yrs; AI/backend match 100/100 via Fine-tuning LLMs, Recommendation Systems, BentoML; behavior 100, tenure 100.",19
+CAND_0016782,Mira Dalal,62.92,100.00,"Data Engineer with 7.5 yrs; AI/backend match 100/100 via pgvector, Fine-tuning LLMs, MLOps; behavior 99, tenure 100.",20
+CAND_0010603,Aisha Desai,63.68,100.00,"ML Engineer with 5.3 yrs; AI/backend match 100/100 via pgvector, Machine Learning, LlamaIndex, MLOps; behavior 98, tenure 100.",21
+CAND_0073007,Ayaan Saxena,62.38,100.00,"AI Specialist with 5.8 yrs; AI/backend match 100/100 via Embeddings, pgvector, Milvus, BentoML; behavior 100, tenure 100.",22
+CAND_0054829,Reyansh Vora,64.28,100.00,"Computer Vision Engineer with 5.7 yrs; AI/backend match 100/100 via Pinecone, LlamaIndex, Machine Learning, BentoML; behavior 96, tenure 100.",23
+CAND_0065277,Naina Sethi,65.45,100.00,"Computer Vision Engineer with 6.3 yrs; AI/backend match 100/100 via RAG, Fine-tuning LLMs, LlamaIndex, Milvus; behavior 94, tenure 100.",24
+CAND_0068811,Krishna Mittal,62.44,100.00,"Applied ML Engineer with 8.0 yrs; AI/backend match 100/100 via Embeddings, pgvector, Pinecone, Weaviate; behavior 100, tenure 99.",25
+CAND_0081852,Krishna Subramanian,61.91,100.00,"Senior Data Scientist with 5.9 yrs; AI/backend match 100/100 via pgvector, Milvus, Weaviate, MLOps, BentoML; behavior 100, tenure 100.",26
+CAND_0096142,Pranav Sethi,61.86,100.00,"Applied ML Engineer with 5.0 yrs; AI/backend match 100/100 via Python, RAG, Pinecone, Weaviate, BentoML; behavior 100, tenure 100.",27
+CAND_0086022,Dhruv Naidu,64.83,100.00,"Senior Applied Scientist with 5.3 yrs; AI/backend match 100/100 via Embeddings, Recommendation Systems, pgvector, Fine-tuning LLMs, Pinecone; behavior 100, tenure 100.",28
+CAND_0086801,Myra Iyer,62.67,100.00,"Computer Vision Engineer with 6.6 yrs; AI/backend match 100/100 via Python, Fine-tuning LLMs, LangChain, Machine Learning, BentoML; behavior 98, tenure 100.",29
+CAND_0037566,Ritu Nair,61.30,100.00,"Machine Learning Engineer with 6.9 yrs; AI/backend match 100/100 via LLMs, Pinecone, LlamaIndex, LangChain; behavior 100, tenure 100.",30
+CAND_0068351,Aadhya Iyer,67.46,100.00,"Lead AI Engineer with 6.4 yrs; AI/backend match 100/100 via Python, pgvector, Machine Learning, Redis; behavior 98, tenure 88.",31
+CAND_0033861,Kabir Kapoor,67.17,100.00,"Senior NLP Engineer with 8.0 yrs; AI/backend match 100/100 via LLMs, Pinecone, Weaviate, Machine Learning, LlamaIndex; behavior 100, tenure 100.",32
+CAND_0006557,Divya Goyal,63.99,100.00,"NLP Engineer with 7.9 yrs; AI/backend match 100/100 via Pinecone, LlamaIndex, Weaviate, LangChain; behavior 100, tenure 100.",33
+CAND_0081480,Sneha Hegde,62.18,100.00,"Computer Vision Engineer with 5.6 yrs; AI/backend match 100/100 via Recommendation Systems, Fine-tuning LLMs, BentoML; behavior 98, tenure 100.",34
+CAND_0072688,Rajesh Goyal,62.46,100.00,"Data Scientist with 6.9 yrs; AI/backend match 100/100 via Recommendation Systems, Milvus; behavior 97, tenure 100.",35
+CAND_0050454,Saanvi Bansal,62.86,100.00,"AI Engineer with 6.8 yrs; AI/backend match 100/100 via LLMs, Fine-tuning LLMs, LangChain; behavior 96, tenure 100.",36
+CAND_0079064,Sai Saxena,60.44,100.00,"Senior Data Scientist with 5.2 yrs; AI/backend match 100/100 via Fine-tuning LLMs, Pinecone, Recommendation Systems, LlamaIndex; behavior 100, tenure 100.",37
+CAND_0039983,Aadhya Joshi,60.40,100.00,"Computer Vision Engineer with 6.6 yrs; AI/backend match 100/100 via Recommendation Systems, Fine-tuning LLMs, Machine Learning, GCP; behavior 100, tenure 100.",38
+CAND_0031593,Aanya Chopra,63.17,100.00,"Search Engineer with 7.8 yrs; AI/backend match 100/100 via Embeddings, Recommendation Systems, LangChain, BentoML, GCP; behavior 100, tenure 100.",39
+CAND_0079284,Ishaan Dutta,61.56,98.00,"Machine Learning Engineer with 4.9 yrs; AI/backend match 100/100 via Recommendation Systems, Fine-tuning LLMs, LlamaIndex, Machine Learning; behavior 100, tenure 100.",40
+CAND_0070398,Riya Saxena,62.82,100.00,"Machine Learning Engineer with 7.2 yrs; AI/backend match 100/100 via Python, RAG, Embeddings, pgvector, Fine-tuning LLMs; behavior 100, tenure 100.",41
+CAND_0092706,Karan Kumar,63.47,100.00,"AI Research Engineer with 5.8 yrs; AI/backend match 100/100 via Fine-tuning LLMs, pgvector, MLOps; behavior 94, tenure 100.",42
+CAND_0060072,Anil Mishra,62.49,100.00,"Staff Machine Learning Engineer with 5.7 yrs; AI/backend match 100/100 via Embeddings, RAG, Fine-tuning LLMs, Pinecone, Recommendation Systems; behavior 100, tenure 100.",43
+CAND_0096172,Meera Chowdary,59.66,100.00,"NLP Engineer with 5.2 yrs; AI/backend match 100/100 via Python, RAG, Fine-tuning LLMs, LangChain; behavior 100, tenure 100.",44
+CAND_0075574,Karan Ghosh,66.23,100.00,"Machine Learning Engineer with 5.7 yrs; AI/backend match 100/100 via pgvector, Recommendation Systems, Weaviate, LlamaIndex; behavior 100, tenure 82.",45
+CAND_0089552,Suresh Dutta,62.17,100.00,"Machine Learning Engineer with 6.0 yrs; AI/backend match 100/100 via Fine-tuning LLMs, Weaviate, Milvus, Machine Learning; behavior 100, tenure 100.",46
+CAND_0074731,Vikram Naidu,62.97,100.00,"Data Scientist with 6.6 yrs; AI/backend match 100/100 via Python, Weaviate, MLOps, LlamaIndex; behavior 93, tenure 100.",47
+CAND_0094056,Diya Pillai,60.03,100.00,"NLP Engineer with 5.9 yrs; AI/backend match 100/100 via Embeddings, Pinecone, Fine-tuning LLMs, Milvus, LlamaIndex; behavior 98, tenure 100.",48
+CAND_0004402,Priya Malhotra,64.91,100.00,"AI Research Engineer with 6.0 yrs; AI/backend match 98/100 via Fine-tuning LLMs, BentoML; behavior 93, tenure 100.",49
+CAND_0018549,Mira Verma,61.74,100.00,"Recommendation Systems Engineer with 6.8 yrs; AI/backend match 100/100 via Fine-tuning LLMs, Weaviate, LangChain, Milvus, Kubernetes; behavior 100, tenure 100.",50
+CAND_0005311,Naina Tiwari,61.39,100.00,"AI Research Engineer with 5.7 yrs; AI/backend match 100/100 via FastAPI, Fine-tuning LLMs, MLOps, BentoML; behavior 95, tenure 100.",51
+CAND_0007411,Rahul Bansal,62.80,100.00,"Senior Machine Learning Engineer with 8.0 yrs; AI/backend match 99/100 via Fine-tuning LLMs, Pinecone; behavior 100, tenure 100.",52
+CAND_0012957,Ritu Menon,60.24,98.00,"Search Engineer with 4.9 yrs; AI/backend match 100/100 via Python, RAG, Embeddings, Fine-tuning LLMs, LangChain; behavior 100, tenure 100.",53
+CAND_0070525,Ved Kumar,62.94,100.00,"Senior Software Engineer (ML) with 5.4 yrs; AI/backend match 100/100 via Python, LLMs, Embeddings, Recommendation Systems; behavior 93, tenure 100.",54
+CAND_0055139,Rajesh Subramanian,61.70,100.00,"ML Engineer with 6.9 yrs; AI/backend match 100/100 via Python, LLMs, pgvector, Machine Learning; behavior 95, tenure 100.",55
+CAND_0098846,Shreya Saxena,63.92,100.00,"AI Engineer with 7.6 yrs; AI/backend match 100/100 via Recommendation Systems, Machine Learning, MLOps, LlamaIndex, BentoML; behavior 100, tenure 94.",56
+CAND_0086151,Ayaan Tiwari,61.39,100.00,"Recommendation Systems Engineer with 7.7 yrs; AI/backend match 100/100 via Embeddings, Recommendation Systems, LangChain, BentoML; behavior 100, tenure 100.",57
+CAND_0008295,Om Mehta,61.57,100.00,"AI Research Engineer with 6.5 yrs; AI/backend match 100/100 via Python, Weaviate, BentoML, Kubernetes; behavior 95, tenure 100.",58
+CAND_0002025,Ira Dalal,64.26,100.00,"Senior AI Engineer with 5.9 yrs; AI/backend match 100/100 via Python, Pinecone, Recommendation Systems, Fine-tuning LLMs, Weaviate; behavior 100, tenure 100.",59
+CAND_0088335,Shreya Sharma,62.90,100.00,"AI Research Engineer with 6.4 yrs; AI/backend match 100/100 via Machine Learning, Weaviate, BentoML, Flask; behavior 92, tenure 100.",60
+CAND_0076251,Atharv Pandey,61.23,100.00,"Search Engineer with 7.6 yrs; AI/backend match 100/100 via LLMs, Fine-tuning LLMs, Weaviate, LlamaIndex, Kafka; behavior 100, tenure 100.",61
+CAND_0064904,Karan Trivedi,59.68,98.00,"AI Engineer with 4.9 yrs; AI/backend match 100/100 via LLMs, Python, Embeddings, FastAPI, Recommendation Systems; behavior 100, tenure 100.",62
+CAND_0076163,Nikhil Mittal,64.06,100.00,"NLP Engineer with 6.9 yrs; AI/backend match 100/100 via Python, Weaviate, LangChain, LlamaIndex, MLOps; behavior 100, tenure 100.",63
+CAND_0060835,Siya Agarwal,63.72,100.00,"Senior Software Engineer (ML) with 6.6 yrs; AI/backend match 100/100 via Embeddings, Weaviate, BentoML, Flask; behavior 90, tenure 100.",64
+CAND_0064326,Nisha Pillai,64.79,100.00,"Search Engineer with 7.6 yrs; AI/backend match 100/100 via Python, RAG, Milvus, Weaviate; behavior 100, tenure 83.",65
+CAND_0029135,Yash Bose,63.11,100.00,"AI Specialist with 5.8 yrs; AI/backend match 100/100 via Fine-tuning LLMs, LangChain, LlamaIndex, Weaviate, BentoML; behavior 100, tenure 94.",66
+CAND_0001707,Sanjay Gupta,62.57,100.00,"Data Scientist with 5.6 yrs; AI/backend match 100/100 via Weaviate, BentoML, Flask; behavior 92, tenure 100.",67
+CAND_0008425,Myra Krishnan,63.86,100.00,"Senior NLP Engineer with 7.8 yrs; AI/backend match 100/100 via Python, pgvector, Recommendation Systems; behavior 100, tenure 100.",68
+CAND_0010257,Ira Shetty,62.62,100.00,"Senior Data Scientist with 6.5 yrs; AI/backend match 100/100 via Python, Recommendation Systems, pgvector, Milvus, Machine Learning; behavior 100, tenure 88.",69
+CAND_0012918,Rahul Dutta,63.16,100.00,"Project Manager with 8.5 yrs; AI/backend match 100/100 via RAG, Embeddings, Pinecone, Fine-tuning LLMs, Recommendation Systems; behavior 91, tenure 100.",70
+CAND_0002344,Krishna Menon,62.48,94.00,"Senior Software Engineer (ML) with 4.7 yrs; AI/backend match 100/100 via LLMs, Pinecone, Recommendation Systems, MLOps, Django; behavior 100, tenure 100.",71
+CAND_0044222,Dev Shah,63.60,100.00,"AI Engineer with 7.7 yrs; AI/backend match 100/100 via Fine-tuning LLMs, LlamaIndex, Weaviate, LangChain; behavior 100, tenure 100.",72
+CAND_0007688,Vivaan Goyal,62.35,95.00,"Business Analyst with 10.0 yrs; AI/backend match 100/100 via LLMs, Embeddings, Recommendation Systems, Fine-tuning LLMs, Pinecone; behavior 99, tenure 100.",73
+CAND_0046064,Saanvi Naidu,63.52,100.00,"Senior NLP Engineer with 8.9 yrs; AI/backend match 100/100 via Python, Pinecone; behavior 100, tenure 100.",74
+CAND_0037944,Suresh Singh,64.96,98.00,"Senior Data Scientist with 4.9 yrs; AI/backend match 100/100 via Python, LLMs, Embeddings, Machine Learning, LlamaIndex; behavior 100, tenure 100.",75
+CAND_0060257,Sai Chowdary,63.17,100.00,"AI Specialist with 5.8 yrs; AI/backend match 100/100 via Recommendation Systems, Milvus, LangChain, Weaviate; behavior 90, tenure 100.",76
+CAND_0067866,Kiara Sethi,62.75,100.00,"Senior Software Engineer (ML) with 6.4 yrs; AI/backend match 100/100 via Embeddings, pgvector, BentoML; behavior 91, tenure 100.",77
+CAND_0001056,Advik Bose,63.25,100.00,"Computer Vision Engineer with 5.1 yrs; AI/backend match 100/100 via Embeddings, Pinecone; behavior 95, tenure 100.",78
+CAND_0051630,Kavya Naidu,63.18,100.00,"Machine Learning Engineer with 6.0 yrs; AI/backend match 100/100 via Python, Embeddings, Recommendation Systems, Machine Learning, BentoML; behavior 100, tenure 100.",79
+CAND_0066376,Amit Goyal,59.69,100.00,"Applied ML Engineer with 5.7 yrs; AI/backend match 100/100 via LLMs, Recommendation Systems, Fine-tuning LLMs, LlamaIndex; behavior 96, tenure 100.",80
+CAND_0055698,Dev Kapoor,59.87,100.00,"Mobile Developer with 8.2 yrs; AI/backend match 99/100 via LLMs, FastAPI, MLOps, BentoML; behavior 96, tenure 100.",81
+CAND_0011687,Shreya Tiwari,63.08,100.00,"Senior NLP Engineer with 7.8 yrs; AI/backend match 100/100 via Embeddings, LangChain, MLOps, Weaviate, LlamaIndex; behavior 100, tenure 100.",82
+CAND_0041669,Aisha Banerjee,61.82,100.00,"Recommendation Systems Engineer with 8.0 yrs; AI/backend match 100/100 via Milvus, Weaviate, MLOps, Machine Learning, Flask; behavior 100, tenure 88.",83
+CAND_0008978,Dev Pandey,63.11,100.00,"Junior ML Engineer with 6.7 yrs; AI/backend match 100/100 via Embeddings, Fine-tuning LLMs, Machine Learning, MLOps, Milvus; behavior 98, tenure 88.",84
+CAND_0020781,Dhruv Iyer,63.32,100.00,"HR Manager with 7.5 yrs; AI/backend match 100/100 via LLMs, RAG, Pinecone, LangChain; behavior 94, tenure 100.",85
+CAND_0044855,Kavya Joshi,60.59,100.00,"Senior Data Scientist with 6.6 yrs; AI/backend match 100/100 via Embeddings, Pinecone, Machine Learning, BentoML; behavior 99, tenure 100.",86
+CAND_0014440,Ananya Singh,61.48,100.00,"Recommendation Systems Engineer with 6.4 yrs; AI/backend match 100/100 via Fine-tuning LLMs, Milvus, Machine Learning; behavior 100, tenure 88.",87
+CAND_0004972,Anika Desai,64.22,100.00,"ML Engineer with 6.0 yrs; AI/backend match 100/100 via LLMs, RAG, pgvector, MLOps, BentoML; behavior 87, tenure 100.",88
+CAND_0059017,Pooja Mishra,63.10,100.00,"AI Research Engineer with 6.8 yrs; AI/backend match 100/100 via Python, Fine-tuning LLMs, Machine Learning, GCP; behavior 94, tenure 100.",89
+CAND_0020350,Tanya Reddy,62.44,100.00,"AI Engineer with 5.8 yrs; AI/backend match 100/100 via LLMs, Fine-tuning LLMs, MLOps; behavior 100, tenure 100.",90
+CAND_0091552,Rahul Verma,64.08,100.00,"Software Engineer with 7.8 yrs; AI/backend match 100/100 via Recommendation Systems, Fine-tuning LLMs, LangChain, BentoML; behavior 95, tenure 88.",91
+CAND_0033179,Yash Subramanian,64.09,100.00,"AI Research Engineer with 6.9 yrs; AI/backend match 100/100 via FastAPI, Fine-tuning LLMs, MLOps, Airflow; behavior 92, tenure 100.",92
+CAND_0024947,Naina Kumar,64.83,100.00,"AI Research Engineer with 6.1 yrs; AI/backend match 100/100 via Python, pgvector, Milvus; behavior 96, tenure 100.",93
+CAND_0083852,Reyansh Banerjee,62.39,100.00,"Data Scientist with 6.0 yrs; AI/backend match 100/100 via Pinecone, pgvector, BentoML; behavior 95, tenure 100.",94
+CAND_0061175,Reyansh Chatterjee,62.21,100.00,"AI Research Engineer with 6.7 yrs; AI/backend match 100/100 via Python, Recommendation Systems, Milvus, LlamaIndex, MLOps; behavior 90, tenure 100.",95
+CAND_0011125,Ishaan Patel,63.50,100.00,"Junior ML Engineer with 6.6 yrs; AI/backend match 100/100 via Embeddings, Fine-tuning LLMs, Milvus, Machine Learning, Weaviate; behavior 88, tenure 100.",96
+CAND_0018536,Siya Mehta,59.07,100.00,"Customer Support with 8.6 yrs; AI/backend match 100/100 via Embeddings, RAG, FastAPI, Pinecone, Recommendation Systems; behavior 95, tenure 100.",97
+CAND_0087364,Pari Rao,62.56,98.00,"Recommendation Systems Engineer with 4.9 yrs; AI/backend match 100/100 via RAG, Pinecone, Milvus, LlamaIndex; behavior 100, tenure 88.",98
+CAND_0066350,Diya Hegde,61.48,100.00,"Analytics Engineer with 6.4 yrs; AI/backend match 98/100 via Embeddings, FastAPI, MLOps, BentoML; behavior 94, tenure 100.",99
+CAND_0093107,Aadhya Reddy,61.50,100.00,"Accountant with 6.8 yrs; AI/backend match 100/100 via LLMs, RAG, Embeddings, Recommendation Systems, Fine-tuning LLMs; behavior 91, tenure 100.",100

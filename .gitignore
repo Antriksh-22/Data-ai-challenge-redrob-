@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+sample_*submission.csv
+sample_ranked_candidates.csv
+
+# Local challenge source data is large and should not be committed.
+candidates.jsonl
+sample_candidates.json
+candidate_schema.json
+job_description.docx
+submission_spec.docx
+redrob_signals_doc.docx
+README.docx
+submission_metadata_template.yaml
+validate_submission.py
